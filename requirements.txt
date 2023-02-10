@@ -1,5 +1,5 @@
 pytest==4.4.1
-ipython==4.1.2
+ipython==8.10.0
 appdirs
 pipfile
 pyproject
